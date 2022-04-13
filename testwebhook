@@ -1,0 +1,1 @@
+curl -X POST --data-urlencode "payload={\"channel\": \"#playground-qa-mall\", \"username\": \"webhookbot\", \"text\": \"This is posted to #playground-qa-mall and comes from a bot named webhookbot.\", \"icon_emoji\": \":ghost:\"}" https://hooks.slack.com/services/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
